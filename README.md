@@ -41,6 +41,7 @@
 │  ├─QQ截图20231209214641.png
 │  └─xmind.png
 │
+├─luosifen.sql                                        # 数据库文件
 └─visual_analysis
     │  └─visual_large_screen.py                        # 可视化大屏代码
     │
